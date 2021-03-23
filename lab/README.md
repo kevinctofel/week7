@@ -1,15 +1,8 @@
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250" align="right">
-
 # Project Summary
 
 In this project we're going to build the backend service (API) for an ecommerce site. We'll be able to display products, search for products, and retrieve a specific product. There will be some accelerator content at the end to help add additional challenges.
 
 The goal is to better understand how the client (frontend application) and server (backend application) interact with each other in the `request -> response cycle`. This includes generating a request on the client, receiving and parsing it on the server, and sending the response back to the client.
-
-## Setup
-
-* `Fork` this repository
-* `Clone` your `fork`
 
 ## Step 1
 
@@ -352,16 +345,3 @@ There are several steps for setting up a basic Express Server:
 * [Common Status Codes](http.cat)
 
 </details>
-
-
-## Contributions
-
-If you see a problem or a typo, please fork, make the necessary changes, and create a pull request so we can review your changes and merge them into the master repo and branch.
-
-## Copyright
-
-© DevMountain LLC, 2019. Unauthorized use and/or duplication of this material without express and written permission from DevMountain, LLC is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given to DevMountain with appropriate and specific direction to the original content.
-
-<p align="center">
-<img src="https://s3.amazonaws.com/devmountain/readme-logo.png" width="250">
-</p>
