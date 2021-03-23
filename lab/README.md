@@ -297,7 +297,7 @@ Items to reinforce and get comfortable with are:
                 * Status
                 * Send
 
-* Additionally, pair up and take turns answering the following:
+* 'Here are some questions you can ask yourself to help remember these topics:
     * What is Node?
     * What is the request-response cycle?
     * What is the purpose of a server?
@@ -308,8 +308,6 @@ Items to reinforce and get comfortable with are:
     * What are some common status codes and what do they mean?
     * What's the difference between `npm install package-name` and `npm install -g package-name`?
     * When should I use a `query` vs. a `param` and vice-versa?
-
-If your pair needs help answering these, utilize your available resources, then get with a mentor for further clarification. If needed, come back to the question later.
 
 ## Resources
 
