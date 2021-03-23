@@ -119,8 +119,6 @@ First we need to install express into our project to use it.
 $ npm install express
 ```
 
-REFER TO THE `serverSetup.js` FILE FOR MORE INFORMATION ABOUT SETTING UP EXPRESS
-
 ### Endpoints
 
 Endpoints are what we use to create a way for a front end application to make requests to our server.
