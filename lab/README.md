@@ -43,8 +43,6 @@ Now that we have our foundation set up, let's start building out our ecommerce A
             * And a callback with a console log so we know our server is running and ready to receive requests
         * Finally, go to your terminal/git bash
             * Type `pwd` to make sure you're in the root directory
-                * It should look something like this `/Users/yourname/DevMountain/node/node-1-afternoon`
-                * If you're not, navigate back to the root of the project directory
             * From there, run the following command `nodemon server/index.js`
             * You should see the `console.log` message from your `listen` method in the console
 
